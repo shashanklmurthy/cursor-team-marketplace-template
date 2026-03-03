@@ -9,5 +9,5 @@
   },
   "license": "MIT",
   "keywords": ["cursor", "plugin", "pm", "jira", "planning"],
-  "logo": "../../assets/pm.png"
+  "logo": "assets/pm.png"
 }

@@ -9,5 +9,5 @@
   },
   "license": "MIT",
   "keywords": ["cursor", "plugin", "docs", "readme", "markdown"],
-  "logo": "../../assets/documentation.png"
+  "logo": "assets/documentation.png"
 }
