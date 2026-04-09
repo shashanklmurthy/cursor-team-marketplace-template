@@ -2,7 +2,7 @@
   "name": "git-workflows",
   "displayName": "Git Workflows",
   "version": "0.1.0",
-  "description": "Common git workflow skills for commits, stashing, PRs, CI, merge conflict handling, rescuing lost commits, and bisecting regressions.",
+  "description": "Common git workflow skills for commits, stashing, tagging releases, PRs, CI, merge conflict handling, rescuing lost commits, and bisecting regressions.",
   "author": {
     "name": "Cursor Team",
     "email": "hi@cursor.com"
